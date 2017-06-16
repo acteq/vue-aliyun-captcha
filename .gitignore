@@ -1,0 +1,5 @@
+node_modules
+browserify
+.DS_Store
+教学系统原型
+dist
