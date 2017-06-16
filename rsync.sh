@@ -1,1 +1,0 @@
-rsync -avz dist/* platform@www.malichina.com:/opt/sso/client
